@@ -41,7 +41,7 @@ Steal Browser History - Steals victims browser history and sends it to you.
 Steal WiFi Passwords - Steals victims WiFi passwords and sends it to you.
 
 Obfuscate - If compiled while checked, the program cannot be decrypted and because of that the victim cannot recreate the program themself.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 ║Builder:║
 
 Fake Error - Enter title and messages and an error message will be displayed once the program starts. Must be enabled in "Main" tab before compiling.
@@ -59,13 +59,13 @@ Icon - This is where you select how you want your compiled program to look like.
 Embed color - This is your theme color for the program.
 
 Build - Press this once you feel like you're done adding options and information to your program to compile it.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 ║.dAIO:║
 
 When victim starts your compiled program, a .dAIO extension file will be sent to you, decrypt it by adding it to the .dAIO tab.
 
 Credentials - If you've chosen more information to steal and you can't view it, click on "Credentials" and more will pop up.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 ║Webhooks:║
 
 Webhook - This is where you enter your Discord™ webhook so that when the victim starts your program, it sends to the channel where the webhook is located. For more information, visit https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
@@ -79,8 +79,8 @@ Webhook spammer - Starts sending messages with a small delay, can be started and
 Webhook deleter - Deletes the Discord™ from the original channel and wont exist no more.
 
 Safe Mode - Runs the webhook spammer without being caught because of delay.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 ║Tokens:║
 
 Enter Discord™ Token to receive information such as their profile picture, their Discord™ name, e-mail that's being used on their account and much more.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
